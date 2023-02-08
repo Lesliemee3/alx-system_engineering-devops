@@ -13,3 +13,4 @@ ls -al . .. /boot
 file /tmp/iamafile
 ln -s /bin/ls __ls__
 cp -un *.html ../
+mv [[:upper:]]* /tmp/u
